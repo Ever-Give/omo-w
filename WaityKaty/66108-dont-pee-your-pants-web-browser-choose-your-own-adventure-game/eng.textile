@@ -1,0 +1,70 @@
+﻿Don't Pee Your Pants - Web Browser Choose Your Own Adventure Game
+
+Author: WaityKaty
+
+*000*2021-02-27 14:01
+
+Hey! It's been a while, busy, etc. But I have a story I've been working on for a bit.
+
+And it's presented in the form of a choose your own adventure book. But online! Lets me try out some new narrative stuff, by which I'm very excited.
+
+%http://textadventures.co.uk/games/view/6sgvkme69usqoq989igeiq/dont-pee-your-pants
+
+It uses the bones of an old interactive I wrote here a few years ago, but significantly expanded to a total of well over 10000 words.
+
+Let me know what you think? :)
+
+*007*2021-03-06 13:17
+
+{{On 2/28/2021 at 2:28 AM, GermanShepherd said:
+
+It's actually a pretty fun story. I really liked it.
+
+}}
+
+{{On 2/28/2021 at 8:01 AM, Manowar said:
+
+Hallo Katy, welcome back :-)!
+
+This was one of my favorite interactive stories. Of course I will try to play.
+
+}}
+
+{{On 3/1/2021 at 6:48 PM, OmoL said:
+
+Love it!
+
+}}
+
+Thanks y'all!
+
+{{On 2/28/2021 at 9:32 AM, LifeIsStrange said:
+
+Pretty nice story, might make my own on here.
+
+}}
+
+It's a pretty good program. Though consider using Squiffy, also available at textadventures.co.uk, if you are making a gamebook that doesn't require the flags/counters/if statements that this one does. The output is HTML instead of proprietary .quest and you have the option of typing in markdown.
+
+{{6 hours ago, Max Capacity said:
+
+Okay, for anyone else having the same issue, you may need to download the game and the Quest engine instead. The site offers the Quest software for free download (you can make your own stories with it as well, as I understand it), and there is a small Download link down on the bottom right to save the story and play it in the Quest software
+
+}}
+
+Good advice!
+
+Alternatively people can try;
+
+A) switching browsers
+
+B) clearing your cache
+
+C) restarting your device
+
+If they aren't using a computer or don't feel like installing quest.
+
+Thanks for the support everyone, over 1300 plays!
+
+One thing, I'm not entirely sure how steep/shallow the difficulty curve is on this game? Are people, who want to, finding all 5 endings OK .You see the achievement screen after you find an ending. I was wondering if people would like me to write a brief walkthrough?
+
